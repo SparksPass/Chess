@@ -1,2 +1,2 @@
 # Chess
-The game Chess replicated in pyhton
+The game Chess replicated in python
